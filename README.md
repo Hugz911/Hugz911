@@ -2,7 +2,8 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning data structured algorithms
 - 💞️ I’m looking to collaborate on  Open Source Project related to Security
-- 📫 How to reach me twitter @Nago911n3rd
+- 📫 How to reach me twitter @Nago911n3rd  Tryhackme https://tryhackme.com/p/Nago911
+
 
 <!---
 Hugz911/Hugz911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
