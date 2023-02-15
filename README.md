@@ -6,8 +6,7 @@
 
       - twitter @Nago911n3rd  
       - Tryhackme https://tryhackme.com/p/Nago911
-      - SoloLearn https://www.sololearn.com/profile/1452737
-      - https://www.credly.com/users/hugo-ignacio-tapia-gomez/badges
+      - https://www.credly.com/users/hugo-ignacio-tapia-gomez
       - https://www.linkedin.com/in/hugo-tapia-gómez-649406b0/
 
 <!---
