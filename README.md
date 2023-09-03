@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on  Open Source Project related to Security or UNIX.
 - 📫 How to reach me 
 
-      - twitter @Nago911n3rd  
+   
       - Tryhackme https://tryhackme.com/p/Nago911
       - https://www.credly.com/users/hugo-ignacio-tapia-gomez
       - https://www.linkedin.com/in/hugo-tapia-gómez-649406b0/
