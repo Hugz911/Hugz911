@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hugz911
 - 👀 I’m interested in computer science and multiple stuff
 - 🌱 I’m currently learning OWASP Secure Code Review and Blockchain techs.
-- 💞️ I’m looking to collaborate on  Open Source Project related to Security or UNIX.
 - 📫 How to reach me 
 
    
